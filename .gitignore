@@ -29,3 +29,9 @@ venv/
 *.swo
 *.log
 deploy.zip
+catboost_info/
+node_modules/
+.expo/
+.pytest_cache/
+backend/artifacts/StackingEnsemble.joblib
+backend/artifacts/ExtraTrees.joblib
